@@ -14,4 +14,6 @@ $Pokemons = array (
 );
 
  print_r( $Pokemons);
+ echo '<br>';
+ print count ($Pokemons, 1);
 ?>
