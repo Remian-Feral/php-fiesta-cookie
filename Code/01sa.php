@@ -16,4 +16,8 @@ $Pokemons = array (
  print_r( $Pokemons);
  echo '<br>';
  print count ($Pokemons, 1);
+
+$Jeremiahs_Favorite = array (11, 'Articuno', 'Ice', 'Flying', 'Snow Cloak', 90, 85, 100);
+
+
 ?>
