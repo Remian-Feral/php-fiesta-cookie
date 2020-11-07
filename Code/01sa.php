@@ -19,5 +19,9 @@ $Pokemons = array (
 
 $Jeremiahs_Favorite = array (11, 'Articuno', 'Ice', 'Flying', 'Snow Cloak', 90, 85, 100);
 
+foreach($Pokemons as $Pokemons){
+		echo $Pokemons[1];		
+		echo '<br>';
+}
 
 ?>
